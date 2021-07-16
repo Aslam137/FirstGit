@@ -5,3 +5,10 @@ class sample
 		System.out.println("Welcome to GitHub ");
 	}
 }
+class Demo
+{
+	public void display()
+	{
+		System.out.println("Printing......");
+	}
+}
